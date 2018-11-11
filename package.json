@@ -1,0 +1,24 @@
+{
+  "name": "borehole-monitor",
+  "version": "1.0.0",
+  "description": "Monitors boreholes on a mine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akiruken/Demo.git"
+  },
+  "author": "Akeel Ledwaba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akiruken/Demo/issues"
+  },
+  "homepage": "https://github.com/akiruken/Demo#readme",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "^4.16.4",
+    "mysql-model": "0.0.3"
+  }
+}
