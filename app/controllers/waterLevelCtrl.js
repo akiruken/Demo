@@ -1,4 +1,4 @@
-var BoreholeWaterLevel = require('./models/waterLevel');
+var BoreholeWaterLevel = require('../models/waterLevel');
 
 //GET /api/water-level/view/:borehole_id
 function view(req,res){
